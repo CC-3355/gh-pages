@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Droneshot</title>
+    <link href="https://cc-3355.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://cc-3355.github.io/gh-pages" />
+    <updated>2022-01-24T16:26:41-05:00</updated>
+    <author>
+        <name>Linus R.</name>
+    </author>
+    <id>https://cc-3355.github.io/gh-pages</id>
+
+    <entry>
+        <title>LCS 2021/2022</title>
+        <author>
+            <name>Linus R.</name>
+        </author>
+        <link href="https://cc-3355.github.io/gh-pages/lcs-20212022.html"/>
+        <id>https://cc-3355.github.io/gh-pages/lcs-20212022.html</id>
+
+        <updated>2022-01-24T16:26:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A few pictures from Lakefield College School 2021/2022
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A few pictures from Lakefield College School 2021/2022</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

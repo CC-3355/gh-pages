@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Droneshot",
+    "description": "",
+    "home_page_url": "https://cc-3355.github.io/gh-pages",
+    "feed_url": "https://cc-3355.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Linus R."
+    },
+    "items": [
+        {
+            "id": "https://cc-3355.github.io/gh-pages/lcs-20212022.html",
+            "url": "https://cc-3355.github.io/gh-pages/lcs-20212022.html",
+            "title": "LCS 2021/2022",
+            "summary": "A few pictures from Lakefield College School 2021/2022",
+            "content_html": "<p>A few pictures from Lakefield College School 2021/2022</p>",
+            "author": {
+                "name": "Linus R."
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-24T16:26:41-05:00",
+            "date_modified": "2022-01-24T16:26:41-05:00"
+        }
+    ]
+}
